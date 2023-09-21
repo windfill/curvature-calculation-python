@@ -12,5 +12,9 @@ note that `where K1,k2 are the Principal curvature, KH is Mean curvature， KG i
 
 
 K1,k2主曲率
+
+
 KH平均曲率
+
+
 KG高斯曲率
